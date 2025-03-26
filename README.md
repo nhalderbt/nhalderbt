@@ -23,10 +23,17 @@ I am a researcher in microalgal biotechnology, working on the isolation, cultiva
 
   <a href="https://zapier.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="60" height="60"/></a>
 <a href="https://zapier.com" target="_blank"><img src="https://github.com/max-mapper/hexbin/blob/gh-pages/vector/ggplot2.svg" width="50" height="50"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg" width="120" height="60"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Pandas_logo_2016.svg" width="190" height="60"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="140" height="50"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="150" height="30"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" width="150" height="30"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21~bgwhite.svg" width="150" height="60"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="70" height="50"/></a>
+<a href="https://zapier.com" target="_blank"><img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/logo_vs-code.svg" width="70" height="50"/></a>
 </p>
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+
 
 <h3 align="left">Projects and experiences:</h3>
 
