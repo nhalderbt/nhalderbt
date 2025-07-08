@@ -40,7 +40,7 @@ I am a researcher in microalgal biotechnology, working on the isolation, cultiva
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![notion-portfolio-tracker](https://github.com/nhalderbt/nhalderbt.git)]() [![learnmate-backend](https://github.com/nhalderbt/Script-for-Differential-Gene-Expression-Analysis-using-DESeq2-N.git)] |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![notion-portfolio-tracker](https://www.sc-best-practices.org/_images/differential_gene_expression.jpg)(https://github.com/nhalderbt/nhalderbt.git)] | [![learnmate-backend](https://github.com/nhalderbt/Script-for-Differential-Gene-Expression-Analysis-using-DESeq2-N.git)] |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
   
