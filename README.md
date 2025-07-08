@@ -40,7 +40,7 @@ I am a researcher in microalgal biotechnology, working on the isolation, cultiva
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![](https://www.sc-best-practices.org/_images/differential_gene_expression.jpg)([https://github.com/nhalderbt/nhalderbt.git](https://github.com/nhalderbt/Script-for-Differential-Gene-Expression-Analysis-using-DESeq2-N.git))] [![learnmate-backend]([[https://github.com/nhalderbt/Script-for-Differential-Gene-Expression-Analysis-using-DESeq2-N.git](https://images.squarespace-cdn.com/content/v1/5e223cac4610b208610b2989/1590182936929-62O0K386DL18FTUATTCI/Pink-Ribbon.jpg?format=750w)](https://github.com/nhalderbt/Breast_cancer_EDA.git))] |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![](https://www.sc-best-practices.org/_images/differential_gene_expression.jpg)([https://github.com/nhalderbt/nhalderbt.git](https://github.com/nhalderbt/Script-for-Differential-Gene-Expression-Analysis-using-DESeq2-N.git))] [![]([[https://github.com/nhalderbt/Script-for-Differential-Gene-Expression-Analysis-using-DESeq2-N.git](https://images.squarespace-cdn.com/content/v1/5e223cac4610b208610b2989/1590182936929-62O0K386DL18FTUATTCI/Pink-Ribbon.jpg?format=750w)](https://github.com/nhalderbt/Breast_cancer_EDA.git))] |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
   
